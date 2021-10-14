@@ -13,3 +13,5 @@ Start a server by
 
 By default, the server is created at `127.0.0.1:8000`. 
 You can use `127.0.0.1:8000/nmail_server/upload` to test your HTTP requests for uploading files.
+
+If the upload is success, the file will be saved in `uploads` folder.
