@@ -20,4 +20,4 @@ To send data from different computer. Start a server at `0.0.0.0`
 
     python manage.py runserver 0.0.0.0:8000
     
-Then, change `127.0.0.1:8000` to `<IP address>:8000`.
+Then, change `127.0.0.1:8000` to `<IP address>:8000` to test your upload API.
